@@ -1,0 +1,30 @@
+PODS:
+  - BetterSegmentedControl (2.0.1)
+  - FSPagerView (0.8.3)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SwiftyStoreKit (0.16.1)
+
+DEPENDENCIES:
+  - BetterSegmentedControl (~> 2.0)
+  - FSPagerView
+  - SDWebImage
+  - SwiftyStoreKit
+
+SPEC REPOS:
+  trunk:
+    - BetterSegmentedControl
+    - FSPagerView
+    - SDWebImage
+    - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  BetterSegmentedControl: 09607b27861d49cbce48b7673b74f9150a3d371a
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+
+PODFILE CHECKSUM: e79a5350a7f5443d382d895a617814e22fc57534
+
+COCOAPODS: 1.10.1

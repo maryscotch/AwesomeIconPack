@@ -1,0 +1,33 @@
+{
+  "identifier" : "FD13A079",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.5",
+      "familyShareable" : false,
+      "internalID" : "A4BFEC35",
+      "localizations" : [
+        {
+          "description" : "Awesome Icon Pack",
+          "displayName" : "PREMIUM",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.mry.awesomeiconpack.nonConsumable",
+      "referenceName" : "PREMIUM",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
